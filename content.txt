@@ -56,3 +56,14 @@ Macaw's Furniture - https://www.curseforge.com/minecraft/mc-mods/macaws-furnitur
 Waystones - https://www.curseforge.com/minecraft/mc-mods/waystones
 Cosmetic Armor Reworked - https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked
 Enchanting Plus - https://www.curseforge.com/minecraft/mc-mods/enchanting-plus
+MysticalLib - https://www.curseforge.com/minecraft/mc-mods/mysticallib
+Atlas Lib - https://www.curseforge.com/minecraft/mc-mods/atlas-lib
+Guide-Api - https://www.curseforge.com/minecraft/mc-mods/guide-api
+ConnectedTexturesMod - https://www.curseforge.com/minecraft/mc-mods/ctm
+Redstone Flux - https://www.curseforge.com/minecraft/mc-mods/redstone-flux
+Bookshelf - https://www.curseforge.com/minecraft/mc-mods/bookshelf
+ZeroCore 2 - https://www.curseforge.com/minecraft/mc-mods/zerocore
+AutoRegLib - https://www.curseforge.com/minecraft/mc-mods/autoreglib
+Chameleon - https://www.curseforge.com/minecraft/mc-mods/chameleon
+CodeChicken Lib - https://www.curseforge.com/minecraft/mc-mods/codechicken-lib-1-8
+CoFH World - https://www.curseforge.com/minecraft/mc-mods/codechicken-lib-1-8
