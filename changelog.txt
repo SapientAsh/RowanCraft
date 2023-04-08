@@ -1,0 +1,4 @@
+CHANGELOG - Included here until I figure out how to do a real changelog >.>
+
+v0.1 - MVP
+This version is likely not functional and is only considered complete enough for an initial test

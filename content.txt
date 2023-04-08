@@ -1,7 +1,58 @@
+//This modlist intended for Minecraft 1.12.2
+//Mods preceded with // do not have 1.12.2 versions and thus are not present in the mods folder
+
 Tinker's Construct - https://www.curseforge.com/minecraft/mc-mods/tinkers-construct
 	Tinker's Tables - https://www.curseforge.com/minecraft/texture-packs/tinkers-tables
-	Construct's Armory - https://www.curseforge.com/minecraft/mc-mods/constructs-armory/screenshots
+	Construct's Armory - https://www.curseforge.com/minecraft/mc-mods/constructs-armory/
+	Armory Expansion - https://www.curseforge.com/minecraft/mc-mods/armory-expansion
+	Moar Tinkers - https://www.curseforge.com/minecraft/mc-mods/moar-tinkers
+	Tinker's JEI - https://www.curseforge.com/minecraft/mc-mods/tinkers-jei
+	Yoyos - https://www.curseforge.com/minecraft/mc-mods/yoyos
 Just Enough Items - https://www.curseforge.com/minecraft/mc-mods/jei
+	Just Enough Resources - https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer
 The One Probe - https://www.curseforge.com/minecraft/mc-mods/the-one-probe
 Applied Energistics 2 - https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2
 Extreme Reactors - https://www.curseforge.com/minecraft/mc-mods/extreme-reactors
+Backpacks - https://www.curseforge.com/minecraft/mc-mods/forge-backpacks
+Chisel - https://www.curseforge.com/minecraft/mc-mods/chisel
+ProjectE - https://www.curseforge.com/minecraft/mc-mods/projecte
+Storage Drawers - https://www.curseforge.com/minecraft/mc-mods/storage-drawers
+Genetics Reborn - https://www.curseforge.com/minecraft/mc-mods/genetics-reborn
+Overloaded Armor Bar - https://www.curseforge.com/minecraft/mc-mods/overloaded-armor-bar
+Ore Excavation - https://www.curseforge.com/minecraft/mc-mods/ore-excavation
+//Mana and Artifice - https://www.curseforge.com/minecraft/mc-mods/mana-and-artifice
+OpenBlocks - https://www.curseforge.com/minecraft/mc-mods/openblocks
+	OpenModsLib - https://www.curseforge.com/minecraft/mc-mods/openmodslib
+Xaero's Minimap - https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap
+Mekanism - https://www.curseforge.com/minecraft/mc-mods/mekanism
+	Mekanism Generators - https://www.curseforge.com/minecraft/mc-mods/mekanism-generators
+	//Applied Mekanistics - https://www.curseforge.com/minecraft/mc-mods/applied-mekanistics
+Ender IO - https://www.curseforge.com/minecraft/mc-mods/ender-io
+Thermal Foundation - https://www.curseforge.com/minecraft/mc-mods/thermal-foundation
+	Thermal Cultivation - https://www.curseforge.com/minecraft/mc-mods/thermal-cultivation
+	Thermal Dynamics - https://www.curseforge.com/minecraft/mc-mods/thermal-dynamics
+	Thermal Expansion - https://www.curseforge.com/minecraft/mc-mods/thermal-expansion
+	Thermal Innovation - https://www.curseforge.com/minecraft/mc-mods/thermal-innovation
+	//Thermal Integration - https://www.curseforge.com/minecraft/mc-mods/thermal-integration
+	//Thermal Locomotion - https://www.curseforge.com/minecraft/mc-mods/thermal-locomotion
+CoFH Core - https://www.curseforge.com/minecraft/mc-mods/cofh-core
+Natura - https://www.curseforge.com/minecraft/mc-mods/natura
+Mantle - https://www.curseforge.com/minecraft/mc-mods/mantle
+Biomes O' Plenty - https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty
+EnderCore - https://www.curseforge.com/minecraft/mc-mods/endercore
+Psi - https://www.curseforge.com/minecraft/mc-mods/psi
+Astral Sorcery - https://www.curseforge.com/minecraft/mc-mods/astral-sorcery
+Blood Magic - https://www.curseforge.com/minecraft/mc-mods/blood-magic
+	Blood Arsenal - https://www.curseforge.com/minecraft/mc-mods/blood-arsenal
+	Blood Smeltery - https://www.curseforge.com/minecraft/mc-mods/blood-smeltery
+Embers Rekindled - https://www.curseforge.com/minecraft/mc-mods/embers-rekindled
+Damage Indicators Mod - https://www.curseforge.com/minecraft/mc-mods/damage-indicators-mod
+ThaumCraft - https://www.curseforge.com/minecraft/mc-mods/thaumcraft
+	Thaumic JEI - https://www.curseforge.com/minecraft/mc-mods/thaumic-jei
+Baubles - https://www.curseforge.com/minecraft/mc-mods/baubles
+BlockCraftery - https://www.curseforge.com/minecraft/mc-mods/blockcraftery
+Macaw's Furniture - https://www.curseforge.com/minecraft/mc-mods/macaws-furniture
+	//Macaw's Furniture BOP - https://www.curseforge.com/minecraft/mc-mods/macaws-furnitures-biomes-o-plenty
+Waystones - https://www.curseforge.com/minecraft/mc-mods/waystones
+Cosmetic Armor Reworked - https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked
+Enchanting Plus - https://www.curseforge.com/minecraft/mc-mods/enchanting-plus
